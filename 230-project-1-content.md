@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>ICE3A</title>
+	<title>Project1</title>
 	<link rel="stylesheet" type="text/css" href="table.css" />
 </head>
 <body>
