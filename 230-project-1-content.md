@@ -46,7 +46,7 @@ The player needs to figure out how the different type of enemies are different
 and what is the best and most likly fastest way to defeat them.
 
 ## VII. Screenshots
-<img src= "pic1.jpg" alt="Head Shot" title="pic1">
+[logo]:https://people.rit.edu/paa9307/230/project1/pic1.jpg "pic 1"
 <img src= "pic2.jpg" alt="Head Shot" title="pic2">
 ## VIII. Other
 N/A
